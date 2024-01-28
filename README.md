@@ -1,4 +1,4 @@
-# Swiggy Prices Scraping Project
+# Swiggy Prices Scraper
 
 This script automates the process of scraping food item prices from Swiggy based on restaurant information provided in an Excel file.
 
